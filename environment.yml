@@ -10,5 +10,6 @@ dependencies:
  - scipy
  - cartopy
  - fsspec
+ - s3fs
 
  
