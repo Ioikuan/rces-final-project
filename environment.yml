@@ -11,5 +11,6 @@ dependencies:
  - cartopy
  - fsspec
  - s3fs
+ - zarr
 
  
