@@ -13,6 +13,5 @@ dependencies:
  - s3fs
  - zarr
  - boto3
-variables:
- - AWS_SECRET_ACCESS_KEY=Zb+j4JLgnrlzfJeoFjOQltOFn7roK5nd3VxE7/QH
- - AWS_ACCESS_KEY_ID=AKIAIYGDIUCR5MTHKKGQ 
+
+
